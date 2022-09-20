@@ -1,2 +1,3 @@
 Screen2 As screen:
+    Fill: =varHeaderGreen
 
