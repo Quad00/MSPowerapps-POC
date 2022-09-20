@@ -1,3 +1,4 @@
 App As appinfo:
     BackEnabled: =false
+    OnStart: =Set(varBackgroundGreen, RGBA(232, 244, 220, 1));Set(varHeaderGreen, RGBA(53, 91,14, 1));Set(varCoreGreen, RGBA(78,132,22,1))
 
