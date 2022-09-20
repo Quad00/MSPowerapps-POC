@@ -3,6 +3,7 @@ Screen1 As screen:
 
     Label1 As label:
         Align: =Align.Center
+        Fill: =varCoreGreen
         FontWeight: =FontWeight.Bold
         Height: =81
         Size: =18
