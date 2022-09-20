@@ -1,3 +1,12 @@
 Screen1 As screen:
     Fill: =varBackgroundGreen
 
+    Label1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =81
+        Size: =18
+        Text: ="Welcome to Git POC"
+        Width: =1366
+        ZIndex: =1
+
