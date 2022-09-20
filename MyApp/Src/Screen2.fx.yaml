@@ -1,3 +1,14 @@
 Screen2 As screen:
-    Fill: =varCoreGreen
+    Fill: |
+        =varBackgroundGreen
+
+    Label2 As label:
+        Align: =Align.Center
+        Fill: =varCoreGreen
+        FontWeight: =FontWeight.Bold
+        Height: =81
+        Size: =18
+        Text: ="Git POC 2"
+        Width: =1366
+        ZIndex: =1
 
