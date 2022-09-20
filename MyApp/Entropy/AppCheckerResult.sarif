@@ -72,17 +72,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.varCoreGreen"
+                  "fullyQualifiedName": "App.varHeaderGreen"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.varCoreGreen",
+                  "fullyQualifiedName": "App.varHeaderGreen",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "varCoreGreen",
+                "member": "varHeaderGreen",
                 "module": "App",
                 "type": "App"
               }
