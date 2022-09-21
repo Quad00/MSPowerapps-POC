@@ -34,7 +34,7 @@ Screen1 As screen:
 
     Button3_2 As button:
         OnSelect: =Navigate(Screen3)
-        Text: ="Test"
+        Text: ="Castulo"
         X: =1089
         Y: =656
         ZIndex: =5
