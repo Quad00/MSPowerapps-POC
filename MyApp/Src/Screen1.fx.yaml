@@ -11,3 +11,10 @@ Screen1 As screen:
         Width: =1366
         ZIndex: =1
 
+    Button1 As button:
+        Fill: =varHeaderGreen
+        Text: ="Button"
+        X: =656
+        Y: =656
+        ZIndex: =2
+
