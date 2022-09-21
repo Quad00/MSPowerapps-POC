@@ -20,7 +20,7 @@ Screen1 As screen:
 
     Button3 As button:
         OnSelect: =Navigate(Screen2)
-        Text: ="Button"
+        Text: ="Name"
         X: =334
         Y: =656
         ZIndex: =3
@@ -34,7 +34,7 @@ Screen1 As screen:
 
     Button3_2 As button:
         OnSelect: =Navigate(Screen3)
-        Text: ="Button"
+        Text: ="Test"
         X: =1089
         Y: =656
         ZIndex: =5
