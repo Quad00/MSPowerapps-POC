@@ -20,7 +20,7 @@ Screen1 As screen:
 
     Button3 As button:
         OnSelect: =Navigate(Screen2)
-        Text: ="Name"
+        Text: ="Test Andrej"
         X: =334
         Y: =656
         ZIndex: =3
