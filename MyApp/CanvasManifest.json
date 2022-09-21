@@ -107,10 +107,5 @@
     "PublishTarget": "player",
     "UserLocale": "en-US"
   },
-  "ScreenOrder": [
-    "Screen1",
-    "Screen2",
-    "Screen3",
-    "Screen4"
-  ]
+  "ScreenOrder": []
 }
