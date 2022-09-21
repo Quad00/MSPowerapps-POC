@@ -25,3 +25,10 @@ Screen1 As screen:
         Y: =656
         ZIndex: =3
 
+    Button3_1 As button:
+        OnSelect: =Navigate(Screen3)
+        Text: ="Button"
+        X: =897
+        Y: =656
+        ZIndex: =4
+
